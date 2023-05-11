@@ -1,4 +1,4 @@
-package abc_Samouczek;
+
 
 import java.util.Scanner;
 
