@@ -16,7 +16,7 @@ public class Codingbat123 {
 		
 		List <Integer>list1=new ArrayList<>();
 		list1.add(1);
-		list1.add(6);
+		list1.add(7);
 		list1.add(3);
 		System.out.print(list1);
 		System.out.print(
